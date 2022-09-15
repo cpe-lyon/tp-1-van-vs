@@ -339,3 +339,6 @@ nano log.txt
 5.  CTRL + S pour enregistrer, CTRL + X quitter nano
 
 Exercice 4 : Personnalisation du shell
+
+![](images/image33.png){width="2.8335793963254594in"
+height="0.49170931758530184in"}
