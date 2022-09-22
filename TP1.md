@@ -118,7 +118,7 @@ Les fichiers commençant par un point sont des fichiers cachés
 
 3.  **Où se situe le programme ls ?**
 
-La programme ls se situe dans /usr/bin/
+A l'aide de la commande which ls, on peut voir que le programme ls se situe dans /usr/bin/ls
 
 4.  **Essayez la commande ll. Existe-t-il une entrée de manuel pour
     cette commande ? Utilisez les commandes alias ou alias pour en
