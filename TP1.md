@@ -4,18 +4,13 @@ TP1
 
 1.  **A l'aide du manuel, identifiez le rôle de la commande which**
 
-> La commande which permet de renvoyer les noms de chemin des fichiers
-> exécutables dans l'environnement courant, si ses arguments avaient été
-> donnés sous forme de commandes dans un shell strictement conforme à
-> POSIX. Il le fait en cherchant l'exécutable dans le PATH.
->
-> ![](images/image1.png)
+> La commande which permet de localiser une commande.
 
 2.  **Quand on consulte une page du manuel, comment peut-on rechercher
     un terme (par exemple, chercher le terme option dans la page de
     manuel de which ?**
 
-> which --a
+> which -a
 >
 > ![](images/image2.png)
 
