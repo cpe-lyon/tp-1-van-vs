@@ -58,8 +58,7 @@ Je n'ai pas la permission d'accéder au dossier /rout
 
 ![](images/image9.png)
 
-cd est une commande shell intégré, sudo ne fonctionne que avec des
-exécutables. cd n'est pas une commande qui se trouve dans
+Sudo ne peut pas utiliser des commandes internes au shell, cd n'est pas une commande qui se trouve dans
 /usr/bin:/bin:/sbin/...
 
 7.  **à partir de votre dossier personnel, créez l'arborescence suivante
