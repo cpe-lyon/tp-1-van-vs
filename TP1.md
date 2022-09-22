@@ -40,10 +40,12 @@ disponibles sur le système.
 
 3.  **retournez dans le dossier personnel**
 
-![](images/image6.png)
+Pour retourner dans le dossier personnel, on peut utiliser soit la commande cd, soit la commande cd ~
 
 4.  **revenez au dossier précédent (/var) sans utiliser de
-    chemin**![](images/image7.png)
+    chemin**
+
+Pour revenir au dossier précédent, on peut utiliser la commande cd -
 
 5.  **essayez d'accéder au dossier /root ; que se passe-t-il ?**
 
