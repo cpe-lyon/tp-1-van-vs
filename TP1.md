@@ -66,7 +66,9 @@ exécutables. cd n'est pas une commande qui se trouve dans
 /usr/bin:/bin:/sbin/...
 
 7.  **à partir de votre dossier personnel, créez l'arborescence suivante
-    :**![](images/image10.png)
+    :**
+
+![](images/image10.png)
 
 8.  **revenez dans votre dossier personnel ; à l'aide de la commande rm,
     essayez de supprimer Fichier1, puis Dossier1 ; que se passe-t-il ?**
